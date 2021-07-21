@@ -1,0 +1,5 @@
+#Ignore Practice File
+a.cpp
+
+#Ignore any exe file
+*.exe
